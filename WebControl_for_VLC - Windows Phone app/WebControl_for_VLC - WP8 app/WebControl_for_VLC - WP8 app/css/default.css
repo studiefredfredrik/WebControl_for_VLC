@@ -1,0 +1,22 @@
+﻿body {
+}
+#toggleViewButton{
+    position:absolute; 
+    bottom:5px;
+    right:5px;
+}
+h3 {
+    text-decoration: underline;
+}
+#savedPopup{
+    /*opacity: 0;*/
+    display:none;
+}
+.highlighted{
+    opacity: 1;
+}
+.btn-default{
+    height: 100px;
+    width: 130px;
+}
+

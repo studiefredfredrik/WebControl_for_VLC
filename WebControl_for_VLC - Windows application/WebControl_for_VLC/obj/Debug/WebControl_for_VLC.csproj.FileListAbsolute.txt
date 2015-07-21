@@ -1,0 +1,18 @@
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC\WebControl_for_VLC\bin\Debug\WebControl_for_VLC.exe.config
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.Properties.Resources.resources
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.csproj.GenerateResource.Cache
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC\WebControl_for_VLC\bin\Debug\WebControl_for_VLC.exe
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC\WebControl_for_VLC\bin\Debug\WebControl_for_VLC.pdb
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.exe
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.pdb
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.MainForm.resources
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows application\WebControl_for_VLC\bin\Debug\WebControl_for_VLC.exe.config
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows application\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.exe
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows application\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.pdb
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows application\WebControl_for_VLC\bin\Debug\WebControl_for_VLC.exe
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows application\WebControl_for_VLC\bin\Debug\WebControl_for_VLC.pdb
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows application\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows application\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.MainForm.resources
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows application\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.Properties.Resources.resources
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows application\WebControl_for_VLC\obj\Debug\WebControl_for_VLC.csproj.GenerateResource.Cache

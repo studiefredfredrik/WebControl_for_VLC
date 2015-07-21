@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html ng-app="RemoteControl">
+<head>
+    <meta charset="utf-8" />
+    <title>WebControl_for_VLC___WP8_app</title>
+
+    <!-- WinJS references -->
+    <!-- At runtime, ui-themed.css resolves to ui-themed.light.css or ui-themed.dark.css 
+    based on the user’s theme setting. This is part of the MRT resource loading functionality. -->
+   <!-- <link href="/css/default.css" rel="stylesheet" />-->
+    <!--<link href="/css/bootstrap.css" rel="stylesheet" />-->
+    <!--<link href="css\bootstrap-3.3.5-dist\css\bootstrap.css" rel="stylesheet">-->
+    <script src="/js/winstore-jscompat.js"></script>
+    <script src="/js/jquery-2.1.4.js"></script>
+
+    <script src="/js/angular.js"></script>
+    <link href="/css/ui-themed.css" rel="stylesheet" />
+    <script src="//Microsoft.Phone.WinJS.2.1/js/base.js"></script>
+    <script src="//Microsoft.Phone.WinJS.2.1/js/ui.js"></script>
+
+    <!-- WebControl_for_VLC___WP8_app references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body ng-controller="ViewController as view">
+    <h1>Remote Control</h1>
+    <remote-buttons url="{{view.serverUrl}}" ng-show="view.isView('buttons')"></remote-buttons>
+    <div ng-show="view.isView('settings')">
+        <h3>Settings</h3>
+        <p>Enter the server url:</p>
+        <textarea ng-enter="view.btnSave(urlInput)" id="urlinput" rows="1" cols="50" ng-model="urlInput" placeholder="{{view.serverUrl}}"></textarea>
+        <h4 id="savedPopup">Saved!</h4>
+        <button ng-click="view.btnSave(urlInput)">Save</button>
+    </div>
+    <div id="toggleViewButton">
+        <button ng-click="view.toggleView()">View {{view.nextView()}}</button>
+    </div>
+</body>
+</html>

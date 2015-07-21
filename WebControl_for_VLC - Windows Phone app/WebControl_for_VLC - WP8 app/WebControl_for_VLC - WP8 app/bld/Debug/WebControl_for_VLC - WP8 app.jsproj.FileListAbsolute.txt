@@ -1,0 +1,20 @@
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\ReverseMap\resources.pri
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\AppxManifest.xml
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\WebControl_for_VLC - WP8 app.build.appxrecipe
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\priconfig.xml
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\priconfig.xml.intermediate
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\layout.resfiles
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\layout.resfiles.intermediate
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\resources.resfiles
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\resources.resfiles.intermediate
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\pri.resfiles
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\pri.resfiles.intermediate
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\qualifiers.txt
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\ProjectArchitectures.txt
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\templates\RemoteControlButtons.html
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\js\angular.js
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\js\default.js
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\js\jquery-2.1.4.js
+C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\js\winstore-jscompat.js

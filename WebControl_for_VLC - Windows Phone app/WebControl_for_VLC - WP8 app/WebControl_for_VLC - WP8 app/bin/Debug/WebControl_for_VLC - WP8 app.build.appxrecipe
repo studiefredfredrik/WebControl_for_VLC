@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FREDRIK-PC</Machine>
+    <WindowsUser>Fredrik</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cc2370d3-6b0f-47bf-830e-4baac7f90623</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\css\bootstrap-theme.css">
+      <PackagePath>css\bootstrap-3.3.5-dist\css\bootstrap-theme.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\css\bootstrap-theme.min.css">
+      <PackagePath>css\bootstrap-3.3.5-dist\css\bootstrap-theme.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\css\bootstrap.css">
+      <PackagePath>css\bootstrap-3.3.5-dist\css\bootstrap.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap-3.3.5-dist\css\bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\css\bootstrap-theme.css.map">
+      <PackagePath>css\bootstrap-3.3.5-dist\css\bootstrap-theme.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\css\bootstrap.css.map">
+      <PackagePath>css\bootstrap-3.3.5-dist\css\bootstrap.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.eot">
+      <PackagePath>css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.svg">
+      <PackagePath>css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.ttf">
+      <PackagePath>css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff">
+      <PackagePath>css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff2">
+      <PackagePath>css\bootstrap-3.3.5-dist\fonts\glyphicons-halflings-regular.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\js\bootstrap.js">
+      <PackagePath>css\bootstrap-3.3.5-dist\js\bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\js\bootstrap.min.js">
+      <PackagePath>css\bootstrap-3.3.5-dist\js\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap-3.3.5-dist\js\npm.js">
+      <PackagePath>css\bootstrap-3.3.5-dist\js\npm.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap.js">
+      <PackagePath>css\bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\bootstrap.min.js">
+      <PackagePath>css\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\css\npm.js">
+      <PackagePath>css\npm.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\js\angular.js">
+      <PackagePath>js\angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\js\jquery-2.1.4.js">
+      <PackagePath>js\jquery-2.1.4.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\js\winstore-jscompat.js">
+      <PackagePath>js\winstore-jscompat.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\templates\RemoteControlButtons.html">
+      <PackagePath>templates\RemoteControlButtons.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fredrik\Desktop\WebControl_for_VLC\WebControl_for_VLC - Windows Phone app\WebControl_for_VLC - WP8 app\WebControl_for_VLC - WP8 app\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
